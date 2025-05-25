@@ -32,7 +32,7 @@ By the end of this program, I will have:
 | [Develop Gen AI Apps with PaLM API](https://www.cloudskillsboost.google/quests/308) | Build apps with text/chat generation using PaLM 2 models | ✅ |
 | [Prompt Design for Gen AI](https://www.cloudskillsboost.google/course_templates/537) | Learn prompt tuning and design for better LLM results | ✅ |
 
-✅ *Skill badges earned and available in my [Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles)*
+✅ *Skill badges earned  [Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/647c32b6-a2fb-4655-a789-0128defd092f/badges/15994974)*
 
 ---
 
